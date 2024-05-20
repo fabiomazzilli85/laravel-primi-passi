@@ -8,8 +8,7 @@
 <body>
     @include('header')
     
-    <h1>Per i contatti:</h1>
-    <a href="mailto:mail@mail.com">Scrivici una mail.</a>
-
+    <h1>Scrivici quando vuoi</h1>
+    
 </body>
 </html>
