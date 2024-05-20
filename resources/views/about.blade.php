@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel Primi Passi</title>
+    <title>Laravel Primi Passi | About</title>
 </head>
 <body>
     @include('header')
+
+    <h1>About Us</h1>
     
-    <h1>Hello World!</h1>
-
-
 </body>
 </html>
